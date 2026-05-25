@@ -67,7 +67,10 @@ A photorealistic single-view image of a sci-fi game hangar level, enormous stars
 A single-view scene of a Tang dynasty Chang'an market street, wooden storefronts with tiled roofs, red lanterns, silk canopies, stone paving, merchant stalls, incense haze, warm afternoon light, stylized animated cinematic look reminiscent of high-end strategy game trailers, wide-angle composition, no panorama, no 360-degree view, no equirectangular projection, no readable text, no people in foreground
 ```
 
-## 14. Ocean in the Sky
+## 14. Tang Dynasty Chang'an Market From Pavilion
+A single-view scene of a Tang dynasty Chang'an market city viewed from an elevated wooden pavilion, carved timber beams and red columns framing the shot, hanging red lanterns, draped silk curtains, weathered balcony railings, tiled rooftops and busy merchant stalls stretching into the distance, broad stone avenue leading toward an imperial gate, incense haze and dust in the air, warm golden sunset light, cinematic animated fantasy realism, stylized look reminiscent of high-end strategy game trailers, wide-angle composition, no panorama, no 360-degree view, no equirectangular projection, no readable text, no people in foreground.
+
+## 15. Ocean in the Sky
 ```text
 A dreamlike single-view image of a world where the ocean floats overhead instead of the sky, whales swimming above clouds, islands suspended in midair, waterfalls falling upward, soft blue light, surreal fantasy realism, cinematic, ultra detailed, wide-angle composition, no panorama, no 360-degree view, no equirectangular projection, no text
 ```
@@ -141,7 +144,12 @@ A photorealistic 360-degree panoramic equirectangular view of a sci-fi game hang
 A 360-degree panoramic equirectangular view of a Tang dynasty Chang'an market street, wooden storefronts with tiled roofs, red lanterns, silk canopies, stone paving, merchant stalls, incense haze, warm afternoon light, stylized animated cinematic look reminiscent of high-end strategy game trailers, seamless 360 panorama, no readable text, no people in foreground
 ```
 
-## 14. Ocean in the Sky (360)
+## 14. Tang Dynasty Chang'an Market From Pavilion (360)
+```text
+A 360-degree panoramic equirectangular view from an elevated wooden pavilion overlooking a grand Tang dynasty Chang'an market city, carved timber beams and ornate roof structure framing the scene, red columns, hanging red lanterns, draped silk curtains, weathered wooden floors, balcony railings, tiled rooftops stretching into the distance, broad stone avenues filled with tiny marketplace activity, merchant stalls and canopy tents below, distant imperial gate and mountains on the horizon, warm golden sunset light, atmospheric haze, cinematic animated fantasy realism, high-end strategy game trailer look, seamless 360 panorama, no readable text, no people in foreground.
+```
+
+## 15. Ocean in the Sky (360)
 ```text
 A dreamlike 360-degree panoramic equirectangular view of a world where the ocean floats overhead instead of the sky, whales swimming above clouds, islands suspended in midair, waterfalls falling upward, soft blue light, surreal fantasy realism, cinematic, ultra detailed, seamless 360 panorama, no text
 ```
